@@ -2,12 +2,6 @@
 
 This repository contains detailed walkthroughs for the Host Header Injection labs offered by PortSwigger's Web Security Academy. These labs demonstrate how attackers can exploit misconfigured or insecure handling of the `Host` header to perform various attacks, such as password reset poisoning, cache poisoning, and more.
 
-## 📌 Labs Covered
-| Host header injection                                                                       | Apprentice | [Lab Link](https://portswigger.net/web-security/host-header/exploiting/lab-host-header-injection) |
-| Password reset poisoning via malicious Host headers                                          | Practitioner | [Lab Link](https://portswigger.net/web-security/host-header/exploiting/lab-password-reset-poisoning-via-host-header) |
-| Password reset poisoning via multiple headers                                                | Practitioner | [Lab Link](https://portswigger.net/web-security/host-header/exploiting/lab-password-reset-poisoning-via-multiple-headers) |
-| Password reset poisoning via dangling markup                                                 | Expert      | [Lab Link](https://portswigger.net/web-security/host-header/exploiting/lab-password-reset-poisoning-via-dangling-markup) |
-
 
 ##  What You'll Learn
 
